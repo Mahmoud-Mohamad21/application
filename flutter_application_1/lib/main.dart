@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Currency Converter Application',
+     title: 'Currency Converter Application',
       home: Home(), 
     );
   }
