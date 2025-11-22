@@ -22,6 +22,7 @@ class _HomeState extends State<Home> {
     });
   }
 
+
   void updateToCurrency(Currency currency) {
     setState(() {
       toCurrency = currency;
