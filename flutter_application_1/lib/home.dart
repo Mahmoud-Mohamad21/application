@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'currency.dart';
 
@@ -122,5 +120,4 @@ class _HomeState extends State<Home> {
     );
   }
 }
-
 
